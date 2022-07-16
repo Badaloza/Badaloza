@@ -1,6 +1,6 @@
-# 👋 Hi, I’m @Badaloza
+# 👋 Hi, I’m Badaloza
 <!-- - 👀 I’m interested in  -->
-- 🌱 I’m currently learning DSA, Problem Solving and ML
+- 🌱 I’m currently learning DSA and ML
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
 
