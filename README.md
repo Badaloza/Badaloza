@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Badaloza
+# 👋 Hi, I’m Badal oza
 <!-- - 👀 I’m interested in  -->
 - 🌱 I’m currently learning DSA and ML
 <!-- - 💞️ I’m looking to collaborate on ... -->
